@@ -1,0 +1,8 @@
+[user]
+	name = Shotaro Yoshinaga
+[core]
+	quotepath = false
+	editor = vim
+	autocrlf = input
+[init]
+	defaultBranch = main
